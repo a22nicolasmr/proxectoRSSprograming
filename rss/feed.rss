@@ -2,15 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>Example Feed</title>
-        <description>Insert witty or insightful remark here</description>
-        <link>http://example.org/</link>
-        <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
-        <managingEditor>johndoe@example.com (John Doe)</managingEditor>
+        <description>Blog about programming languajes</description>
+        <link>https://niicomiguez.github.io/proxectoRSSprograming/</link>
+        <pubDate>Tue, 22 Nov 2022 10:00:00 GMT+1</pubDate>
+        <managingEditor>a22nicolasmr@iessanclemente.net</managingEditor>
         <item>
-            <title>Test page</title>
-            <link>http://example.org/test.html</link>
-            <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
-            <description>Some text.</description>
+            <title>Java</title>
+            <link>https://niicomiguez.github.io/proxectoRSSprograming/java</link>
+            <pubDate>Tue, 22 Nov 2022 10:00:00 GMT+1</pubDate>
+            <description>Tricks about Java</description>
+        </item>
+        <item>
+            <title>Phyton</title>
+            <link>https://niicomiguez.github.io/proxectoRSSprograming/phyton</link>
+            <pubDate>Tue, 22 Nov 2022 10:00:00 GMT+1</pubDate>
+            <description>Tricks about Phyton</description>
         </item>
     </channel>
 </rss>
